@@ -17,7 +17,7 @@
     "composer/installers": "*"
   },
   "support": {
-    "issues": "https://github.com/Rhym/silverstripe-color-field/issues"
+    "issues": "https://github.com/toastnz/silverstripe-color-field/issues"
   },
   "extra": {
     "installer-name": "silverstripe-color-field"
