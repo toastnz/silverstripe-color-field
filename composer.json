@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "composer/installers": "*"
+    "silverstripe/framework": "^6.0"
   },
   "support": {
     "issues": "https://github.com/toastnz/silverstripe-color-field/issues"
